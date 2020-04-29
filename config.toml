@@ -1,26 +1,26 @@
-title = "Notre-Dame de Paris"
-baseURL = "/hugo-website"
-languageCode = "en-us"
-theme = "gohugo-theme-ananke"
-themesDir = "themes"
+title = " Pasear en tiempos de COVID19 "
+baseURL = " / patico19 "
+languageCode = " es "
+theme = " gohugo-theme-ananke "
+themesDir = " temas "
 
-MetaDataFormat = "yaml"
-DefaultContentLanguage = "en"
-SectionPagesMenu = "main"
-Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
-googleAnalytics = ""
+MetaDataFormat = " yaml "
+DefaultContentLanguage = " en "
+SectionPagesMenu = " main "
+Paginate = 3  # esto se establece bajo para demostrar con contenido ficticio. Establecer en un número mayor
+googleAnalytics = " "
 enableRobotsTXT = true
 
-[sitemap]
-  changefreq = "monthly"
-  priority = 0.6
-  filename = "sitemap.xml"
+[ mapa del sitio ]
+  changefreq = " mensual "
+  prioridad = 0.6
+  filename = " sitemap.xml "
 
-[params]
-  favicon = ""
-  description = "The last theme you'll ever need. Maybe."
-  facebook = ""
-  twitter = "https://twitter.com/GoHugoIO"
+[ params ]
+  favicon = " "
+  description = " El último tema que necesitarás. Quizás " .
+  facebook = " "
+  twitter = " https://twitter.com/PCVillarcayo "
   instagram = ""
   youtube = ""
   github = ""
